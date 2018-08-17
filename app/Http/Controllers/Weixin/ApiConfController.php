@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Weixin;
 
-define("TOKEN", "weixin");
+define("TOKEN", "lzxprogrammer");
 // $wechatObj = new wechatCallbackapiTest();
 // $wechatObj->valid();
 
